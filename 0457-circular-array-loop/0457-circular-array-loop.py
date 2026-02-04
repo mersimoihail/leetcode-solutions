@@ -15,22 +15,22 @@ class Solution:
             
             while True:
                 # Check and move slow
-                next_slow = next_index(slow)
-                if (nums[next_slow] > 0) != direction:
+                slow = next_index(slow)
+                if (nums[slow] > 0) != direction:
                     break
-                slow = next_slow
+                
                 
                 # Check and move fast (first step)
-                next_fast = next_index(fast)
-                if (nums[next_fast] > 0) != direction:
+                fast = next_index(fast)
+                if (nums[fast] > 0) != direction:
                     break
-                fast = next_fast
+                
                 
                 # Check and move fast (second step)
-                next_fast = next_index(fast)
-                if (nums[next_fast] > 0) != direction:
+                fast = next_index(fast)
+                if (nums[fast] > 0) != direction:
                     break
-                fast = next_fast
+                
                 
                 # Check for cycle
                 if slow == fast:
@@ -41,5 +41,12 @@ class Solution:
             
             # Mark all visited nodes in this path to avoid re-checking
             # This optimization reduces time complexity
-          
+            current = i
+            current = i
+            while nums[current] != 0 and (nums[current] > 0) == direction:
+                next_curr = next_index(current)
+                nums[current] = 0
+                current = next_curr
+
+        
         return False
