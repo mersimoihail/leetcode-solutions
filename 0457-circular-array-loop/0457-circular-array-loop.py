@@ -41,6 +41,5 @@ class Solution:
             
             # Mark all visited nodes in this path to avoid re-checking
             # This optimization reduces time complexity
-            
-        
-        return False 
+          
+        return False
