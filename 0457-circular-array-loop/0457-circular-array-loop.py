@@ -41,12 +41,6 @@ class Solution:
             
             # Mark all visited nodes in this path to avoid re-checking
             # This optimization reduces time complexity
-            current = i
-            current = i
-            while nums[current] != 0 and (nums[current] > 0) == direction:
-                next_curr = next_index(current)
-                nums[current] = 0
-                current = next_curr
-
+            
         
-        return False
+        return False 
