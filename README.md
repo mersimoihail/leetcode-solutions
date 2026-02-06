@@ -25,6 +25,7 @@
 | [0881-boats-to-save-people](https://github.com/mersimoihail/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mersimoihail/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mersimoihail/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +39,9 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/mersimoihail/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/mersimoihail/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
