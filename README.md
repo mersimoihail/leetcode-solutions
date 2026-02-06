@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mersimoihail/leetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/mersimoihail/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0455-assign-cookies](https://github.com/mersimoihail/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mersimoihail/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0881-boats-to-save-people](https://github.com/mersimoihail/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mersimoihail/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mersimoihail/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mersimoihail/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
