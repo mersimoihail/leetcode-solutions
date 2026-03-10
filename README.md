@@ -81,4 +81,16 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/mersimoihail/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
