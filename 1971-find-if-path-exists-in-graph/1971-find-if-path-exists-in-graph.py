@@ -1,24 +1,28 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        adlist = defaultdict(list)
+        mydict = defaultdict(list)
+        for vi,ui in edges:
+            mydict[vi].append(ui)
+            mydict[ui].append(vi)
+        visite = set()
+        def nodes(nod):
+            if nod == destination:
+                return True
+            
+            visite.add(nod)
+            for neighbour in mydict[nod]:
+                
+                if neighbour not in visite:
+                    if nodes(neighbour):
+                        return True
+            return False
+        return nodes(source)
+        
+        
+        
+
+
 
         
 
-        for i in range(len(edges)):
-            adlist[edges[i][0]].append(edges[i][1])
-            adlist[edges[i][1]].append(edges[i][0])
-
-        visited = set()
-        def dfs(vertix):
-            if vertix == destination:
-                return True
-            visited.add(vertix)
-            for neighbour in adlist[vertix]:
-                if neighbour not in visited:
-                    if dfs(neighbour):
-                        return True
-
-            return False
-
-        return dfs(source)
-
+       
