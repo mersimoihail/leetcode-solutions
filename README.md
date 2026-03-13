@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mersimoihail/leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mersimoihail/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -94,6 +95,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mersimoihail/leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mersimoihail/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
