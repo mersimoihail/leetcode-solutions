@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -95,4 +96,9 @@
 | ------- |
 | [0326-power-of-three](https://github.com/mersimoihail/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
