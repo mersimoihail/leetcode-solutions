@@ -65,11 +65,13 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/mersimoihail/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0965-univalued-binary-tree](https://github.com/mersimoihail/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mersimoihail/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/mersimoihail/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0965-univalued-binary-tree](https://github.com/mersimoihail/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mersimoihail/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -108,4 +110,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mersimoihail/leetcode-solutions/tree/master/0039-combination-sum) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/mersimoihail/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/mersimoihail/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
