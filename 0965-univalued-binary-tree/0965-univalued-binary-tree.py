@@ -7,17 +7,18 @@
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         queue = deque()
-        target = root.val
         queue.append(root)
+        value = root.val
         while queue:
-            node = queue.popleft()
-            if node.val != target:
+            cur = queue.popleft()
+            if cur.left:
+                queue.append(cur.left)
+            if cur.right:
+                queue.append(cur.right)
+            if cur.val != value:
                 return False
-            if node.left:
-                queue.append(node.left)
-            if node.right:
-                queue.append(node.right)
         return True
-
+            
+       
 
         
