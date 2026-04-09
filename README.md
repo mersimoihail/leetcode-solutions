@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mersimoihail/leetcode-solutions/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mersimoihail/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mersimoihail/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0881-boats-to-save-people](https://github.com/mersimoihail/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
