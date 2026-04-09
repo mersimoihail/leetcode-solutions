@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/mersimoihail/leetcode-solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/mersimoihail/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mersimoihail/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/mersimoihail/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/mersimoihail/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mersimoihail/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/mersimoihail/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mersimoihail/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/mersimoihail/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Depth-First Search
 |  |
 | ------- |
