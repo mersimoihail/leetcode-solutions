@@ -98,6 +98,7 @@
 | [0326-power-of-three](https://github.com/mersimoihail/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mersimoihail/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/mersimoihail/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mersimoihail/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/mersimoihail/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
