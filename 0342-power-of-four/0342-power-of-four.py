@@ -1,11 +1,11 @@
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        def power(x):
-            if x == 1:
+        def ch(no):
+            if no == 4:
                 return True
-            if x <= 0 or x % 4 != 0:
+            if no < 4 :
                 return False
-            return power(x // 4)
-        
-        
-        return(power(n))
+            return ch(no/4)
+        if n == 1:
+            return True
+        return ch(n)
