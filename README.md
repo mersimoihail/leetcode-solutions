@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2938-separate-black-and-white-balls](https://github.com/mersimoihail/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
@@ -110,6 +111,7 @@
 | [0050-powx-n](https://github.com/mersimoihail/leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mersimoihail/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mersimoihail/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mersimoihail/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/mersimoihail/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mersimoihail/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mersimoihail/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
